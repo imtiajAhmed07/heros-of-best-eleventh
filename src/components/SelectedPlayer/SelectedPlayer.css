@@ -1,0 +1,22 @@
+.selectedPlayer{
+    box-shadow: 2px 2px 5px gray;
+    width: 37%;
+    padding:0px 20px 40px 20px;
+    margin-left: 750px;
+    float: left;
+    margin-top: 92px;
+    border-radius: 10px;
+    position: fixed;
+}
+
+.totalContainer {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 10px;
+    padding: 0px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color:orange;
+}

@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Cristiano Ronaldo",
+        "country": "Portugal",
+        "presentClub": "Juventas",
+        "status": "Forward",
+        "salary": 535000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtcEYOgEbjZCCWY5OOc7_nNRjbiqlqMMAXA&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Lionel Messi",
+        "country": "Argentina",
+        "presentClub": "Barcelona",
+        "status": "Forward",
+        "salary": 455000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEVTNlDfhRoRoZAMeBnnioAjldEfoPhjilcQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Mohammad Salah",
+        "country": "Egypt",
+        "presentClub": "Liverpool",
+        "status": "Forward",
+        "salary": 415000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxk-eUgqGVTdhSqvVzpQqu735b36N6Tff4Q&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Neymar Jr",
+        "country": "Brazil",
+        "presentClub": "PSG",
+        "status": "Forward",
+        "salary": 525000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1Gs_EBOhsSiTAbIlERpcrNcb-1cLCs0Ygg&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Mesut Ozil",
+        "country": "German",
+        "presentClub": "Fenerbahçe S.K",
+        "status": "Midfielder",
+        "salary": 445000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-NLbA6gQR21VgV-AZURD6NQcwxSiqIVPBg&usqp=CAU"
+    },
+    {
+        "id": 6,
+        "name": "Ricardo Kaka",
+        "country": "Brazil",
+        "presentClub": "Real Madrir",
+        "status": "Forward",
+        "salary": 345000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jlHcesxLSj7Q-HWZ0V-80M5RznynGUh2Dw&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "Pique",
+        "country": "Brazil",
+        "presentClub": "Barcelona",
+        "status": "Striker",
+        "salary": 325000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW3Twsg3fW8F9QhyG4KblW8e0UErqQaVXnRw&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "name": "Marcelo",
+        "country": "Brazil",
+        "presentClub": "Real Madrid",
+        "status": "Striker",
+        "salary": 3145010,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbmFXtGkHbZ60R2Z7l0d-oos86wuo5Izesg&usqp=CAU"
+    },
+    {
+        "id": 9,
+        "name": "Jan Oblak",
+        "country": "Slovenian",
+        "presentClub": "Real Madrid",
+        "status": "Goalkeeper",
+        "salary": 245000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS85Eb5UT5dweiBZA0OmxkUQbqL6LFeTYplEQ&usqp=CAU"
+    },
+    {
+        "id": 10,
+        "name": "Thiago Silva",
+        "country": "Brazil",
+        "presentClub": "Real Madrid",
+        "status": "Defender",
+        "salary": 356000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtX0xIXr6ftvmuZPl7UEGelZo4d2wF1rlPA&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "name": "David De Gea",
+        "country": "Brazil",
+        "presentClub": "Real Madrid",
+        "status": "Goalkeeper",
+        "salary": 479400,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWjILahgL22l7QcCQEnQMbtG6FEY_A27c3Q&usqp=CAU"
+    },
+    {
+        "id": 12,
+        "name": "Andress Iniesta",
+        "country": "Brazil",
+        "presentClub": "Real Madrid",
+        "status": "Midfielder",
+        "salary": 245450,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbz5ZPGaQ2y1CumgeiJyXcz5MeoJnD2u3Ag&usqp=CAU"
+    },
+    {
+        "id": 13,
+        "name": "Sergio Ramos",
+        "country": "Spain",
+        "presentClub": "Real Madrid",
+        "status": "Defender",
+        "salary": 247500,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq9-jmlcyARjNI6-PPv-6wz3O4iw3izcouA&usqp=CAU"
+    },
+    {
+        "id": 14,
+        "name": "Dani Alvis",
+        "country": "Brazil",
+        "presentClub": "Real Madrid",
+        "status": "Midfielder",
+        "salary": 335000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIquRT5St6Uwy_psqZQX5YIjnOOgsc3NXNA&usqp=CAU"
+    },
+    {
+        "id": 15,
+        "name": "Willian",
+        "country": "Brazil",
+        "presentClub": "Real Madrid",
+        "status": "Midfielder",
+        "salary": 214000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1A6DYclKX083sQzCBm21IAytSfhRJM0dtQ&usqp=CAU"
+    }
+]
